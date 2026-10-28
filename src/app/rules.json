@@ -1,0 +1,62 @@
+[
+  {
+    "intent": "fee",
+    "keywords": ["fee", "fees", "tuition", "challan", "installment", "payment", "charges", "fees kitni"],
+    "reply": "Fee semester ke hisaab se jama hoti hai. Fee challan student portal se download hota hai, aur aap isay university ke designated bank ki kisi bhi branch mein ya online banking se jama kara sakte hain. Fee ki aakhri tareekh ke baad late fee lagti hai, is liye waqt par jama karwayein. Agar aap ek saath poori fee nahi de saktay to Accounts Office mein application de kar installments ki request kar sakte hain. Jama karwane ke baad bank ki mohar wali slip sambhal kar rakhein."
+  },
+  {
+    "intent": "admission",
+    "keywords": ["admission", "apply", "admissions", "kaise le", "dakhla", "form", "application"],
+    "reply": "Admission ke liye pehle university ka admission announcement aane ka intezar karein. Phir online admission form mein apni personal aur educational details bharein, zaroori documents upload karein aur admission processing fee jama karwayein. Form submit hone ke baad merit list lagti hai. Select hone par aapko fee challan milta hai; fee jama karwane aur documents ki verification ke baad admission confirm ho jata hai."
+  },
+  {
+    "intent": "eligibility",
+    "keywords": ["eligibility", "eligible", "criteria", "merit", "marks", "requirement", "required documents", "documents"],
+    "reply": "Undergraduate (BS) ke liye aapke Intermediate (FA/FSc/ICS/I.Com) mein kam az kam 45 percent marks hone chahiye, aur kuch programs mein entry test bhi dena hota hai. Merit ka hisaab Matric, Intermediate aur entry test ke weightage se banta hai. Admission ke waqt Matric aur Intermediate ki marksheets, CNIC ya B-Form ki copy, passport size photos aur domicile ki copy chahiye hoti hain. Har program ka criteria thora mukhtalif ho sakta hai."
+  },
+  {
+    "intent": "timing",
+    "keywords": ["timing", "timings", "time", "open", "close", "office hours", "kab khulta", "schedule", "working hours"],
+    "reply": "University ke administrative offices Monday se Friday subah 8:30 se dopahar 3:30 tak khulay rehte hain, aur Friday ko namaz ka break hota hai. Classes ka waqt department ke timetable ke mutabiq hota hai, aam tor par subah 8:30 se shaam 4 baje tak. Saturday aur Sunday ko university band hoti hai, siwaye un classes ke jo weekend programs ke liye mukarrar hain. Chuttiyon ka calendar semester ke shuru mein jari kiya jata hai."
+  },
+  {
+    "intent": "library",
+    "keywords": ["library", "book", "books", "issue", "borrow", "reading room", "kitab", "return"],
+    "reply": "Library mein students apna university card dikha kar kitabein issue karwa sakte hain. Aam tor par ek student ko ek waqt mein 3 kitabein 14 din ke liye di jati hain, aur zaroorat ho to ek martaba muddat barhai ja sakti hai. Late return par rozana ke hisaab se fine lagta hai, aur kitab gum hone par uski qeemat ya naya copy dena hota hai. Library mein reading hall, digital resources aur research journals bhi maujood hain."
+  },
+  {
+    "intent": "hostel",
+    "keywords": ["hostel", "accommodation", "room", "rehne", "boarding", "dormitory", "mess"],
+    "reply": "Hostel mein jagah limited hoti hai aur merit aur door-se-aane wale students ko tarjeeh di jati hai. Aapko hostel form bhar kar Provost Office mein jama karwana hota hai, sath mein CNIC ki copy, admission slip aur hostel fee ka challan lagana hota hai. Mess ki fee alag se hoti hai. Hostel mein rehne ke liye entry aur exit ke qawaid, roommates ke liye rules aur raat ki wapsi ka waqt lagoo hote hain, jin ki pabandi zaroori hai."
+  },
+  {
+    "intent": "transport",
+    "keywords": ["transport", "bus", "pick", "drop", "route", "shuttle", "point", "van"],
+    "reply": "University apni buses mukhtalif shehron aur routes par chalati hai. Transport use karne ke liye aapko Transport Office se form le kar bhar kar jama karwana hota hai aur semester ki transport fee ada karni hoti hai. Fee ki raqam aapke route ki doori par depend karti hai. Fee jama hone par aapko transport card milta hai, jise bus mein charhte waqt dikhana zaroori hai. Pick aur drop ka waqt classes ke timetable ke hisaab se tay hota hai."
+  },
+  {
+    "intent": "scholarship",
+    "keywords": ["scholarship", "scholarships", "financial aid", "waiver", "stipend", "need based", "haq", "funding", "wazifa"],
+    "reply": "University mein merit-based aur need-based dono qisam ke scholarships milte hain. Merit scholarship un students ko diya jata hai jinhon ne pichle semester mein bohat acha GPA hasil kiya ho. Need-based scholarship ke liye aapko income certificate, utility bills aur ek application dena hota hai, jis ke baad committee faisla karti hai. Iske ilawa HEC aur hukumati programs ke tahat bhi scholarships milte hain, jinki application Financial Aid Office ke zariye hoti hai."
+  },
+  {
+    "intent": "exams",
+    "keywords": ["exam", "exams", "result", "datesheet", "date sheet", "gpa", "cgpa", "paper", "midterm", "final"],
+    "reply": "Har semester mein do imtehan hote hain: midterm (semester ke darmiyan) aur final (aakhir mein). Datesheet imtehan se kam az kam do hafte pehle department ke notice board aur student portal par lagai jati hai. Exam mein baithne ke liye 75 percent attendance zaroori hai. Result final exams ke qareeban 3 se 4 hafte baad portal par aata hai. Result mein ghalti ho to aap fixed fee de kar rechecking ke liye apply kar sakte hain."
+  },
+  {
+    "intent": "contact",
+    "keywords": ["contact", "phone", "number", "email", "address", "location", "kahan", "rabta", "helpline", "office"],
+    "reply": "Aap kisi bhi masle ke liye seedha university ki main administration building mein ja sakte hain, jahan Student Affairs Office aur Registrar Office maujood hain. Phone ya email se rabta karne ke liye university ki official helpline ka number aur email ADD karein (yahan apni university ka asal number aur email likhein). Department ke masail ke liye apne department ke chairman ya coordinator se milein, jin ke office timing hafte ke din subah se dopahar tak hote hain."
+  },
+  {
+    "intent": "degree",
+    "keywords": ["degree", "transcript", "certificate", "convocation", "provisional", "degree kab", "verification", "graduation"],
+    "reply": "Degree ke liye aapko pehle apni pending dues clear karwane aur no-dues certificate lene ki zaroorat hoti hai. Phir Controller of Examinations Office mein degree form aur fee jama karwayen. Provisional certificate aam tor par 2 se 3 hafton mein mil jata hai, jabke asal degree convocation ke baad ya kuch mahine mein diya jata hai. Transcript ke liye alag application aur fee lagti hai, aur verification ke liye aapko apna CNIC aur degree ki copy sath rakhni hoti hai."
+  },
+  {
+    "intent": "societies",
+    "keywords": ["society", "societies", "sports", "club", "extra", "activities", "event", "cricket", "debate", "competition"],
+    "reply": "University mein mukhtalif societies hain jaise literary society, debating club, computer society aur sports society. Inmein shamil hone ke liye aapko society ke president ya Student Affairs Office se rabta karna hota hai aur ek chhota sa membership form bharna hota hai. Sports mein cricket, football, badminton aur table tennis ki teams hain, jinke trials saal ke shuru mein hote hain. In activities mein hissa lene se aapki skills behtar hoti hain aur certificates bhi milte hain."
+  }
+]
